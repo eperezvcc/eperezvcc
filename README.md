@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eneko
 - 👀 I’m interested in technology, design and animal welfare. 
 - 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on DevOps, Cloud infrastructure, Kubernetes, FinOps, Automation
+- 💞️ I’m looking to collaborate on DevOps, Cloud infrastructure, Kubernetes, FinOps, Automation and Monitoring
 - 📫 How to reach me: eneko.perez@volvocars.com
 
 <!---
